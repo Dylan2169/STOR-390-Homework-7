@@ -5,6 +5,7 @@ date: "1/5/2024"
 output: 
   pdf_document:
     latex_engine: xelatex
+    number_sections: yes
 ---
 
 # 
